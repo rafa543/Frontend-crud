@@ -1,0 +1,5 @@
+https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
+https://www.bezkoder.com/spring-boot-pagination-filter-jpa-pageable/
+https://www.bezkoder.com/spring-data-sort-multiple-columns/
+https://www.bezkoder.com/spring-boot-pagination-sorting-example/
+https://www.bezkoder.com/vuetify-data-table-example/
